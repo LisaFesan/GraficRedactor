@@ -1,1 +1,1 @@
-# GraficRedactor-
+# GraficRedactor
