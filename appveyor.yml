@@ -5,6 +5,7 @@ configuration: Release
 before_build:
 - cmd: nuget restore
 build:
+  project: GraficRedactor.sln
   publish_nuget: true
   publish_nuget_symbols: true
   include_nuget_references: true
