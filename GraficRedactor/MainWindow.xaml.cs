@@ -22,7 +22,7 @@ namespace GraficRedactor
     {
         public MainWindow()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
     }
 }
