@@ -27,7 +27,7 @@ deploy:
   release: GraficRedactor-v$(appveyor_build_version)
   provider: GitHub
   auth_token:
-    secure: VgFAgpMigUV1l0YOGII/2Ot6OCtBwBZBaFaLcTeswSD3LigGSsOqX+txrNrz62lW
+    secure: QyTml6X0EgeePqg4TTZv3UVKO691IZHm0l8dEUw0QOVsUtnHJD8E7kwCd5RMzKcX
   on:
     configuration: Release
     branch: master
