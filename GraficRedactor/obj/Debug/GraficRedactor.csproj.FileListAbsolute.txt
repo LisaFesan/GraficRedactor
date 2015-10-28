@@ -2,7 +2,6 @@ C:\Users\Lisa\Desktop\GraficRedactor-\GraficRedactor\bin\Debug\GraficRedactor.ex
 C:\Users\Lisa\Desktop\GraficRedactor\GraficRedactor\bin\Debug\GraficRedactor.exe.config
 C:\Users\Lisa\Desktop\GraficRedactor\GraficRedactor\bin\Debug\GraficRedactor.exe
 C:\Users\Lisa\Desktop\GraficRedactor\GraficRedactor\bin\Debug\GraficRedactor.pdb
-C:\Users\Lisa\Desktop\GraficRedactor\GraficRedactor\obj\Debug\GraficRedactor.csprojResolveAssemblyReference.cache
 C:\Users\Lisa\Desktop\GraficRedactor\GraficRedactor\obj\Debug\MainWindow.baml
 C:\Users\Lisa\Desktop\GraficRedactor\GraficRedactor\obj\Debug\MainWindow.g.cs
 C:\Users\Lisa\Desktop\GraficRedactor\GraficRedactor\obj\Debug\App.g.cs
