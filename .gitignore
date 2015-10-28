@@ -1,8 +1,6 @@
-#ignore packages/
+#ignore packages/bin/obj/
 packages/
-#ignore bin/
 bin/
-#ignore obj/
 obj/
 #################
 ## Eclipse
