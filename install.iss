@@ -14,7 +14,7 @@
 ; EXECUTE FILE NAME
 #define   ExeName    "GraficRedactor.exe"
 
-#define SrcApp "GraficRedactor\bin\Release\GraficRedactor.exe"
+#define SrcApp "bin\Release\GraficRedactor.exe"
 
 #define Version GetFileVersion(SrcApp)
 ;

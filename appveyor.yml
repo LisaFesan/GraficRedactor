@@ -5,7 +5,6 @@ configuration: Release
 before_build:
 - cmd: nuget restore
 build:
-  project: GraficRedactor\GraficRedactor.sln
   publish_nuget: true
   publish_nuget_symbols: true
   include_nuget_references: true
@@ -13,10 +12,10 @@ build:
 
 after_build:
 - cmd: >-
-    cd GraficRedactor\packages\Tools.InnoSetup.5.5.6\tools
+    cd packages\Tools.InnoSetup.5.5.6\tools
 
  
-    iscc "..\..\..\install.iss"
+    iscc "..\..\install.iss"
     
     
 
